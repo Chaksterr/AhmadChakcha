@@ -2,13 +2,7 @@
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
-  <rect x="10" y="12" width="40" height="38" rx="4" fill="#191970"/>
-  <polygon points="10,12 30,22 50,12 50,8 30,18 10,8" fill="#4a5a9a"/>
-  <text x="30" y="38" font-family="monospace" font-weight="bold" font-size="16" fill="white" text-anchor="middle">17</text>
-</svg>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=191970&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Chakcha;%E2%9A%A1+AI+%26+Data+Engineering+Student+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Chakcha;%E2%9A%A1+AI+%26+Data+Engineering+Student+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +15,7 @@ Currently exploring DevOps and how AI agents are reshaping the way data is built
 
 ---
 
-## 🔍 Tools & Technologies
+## 🔥 Languages & Frameworks & Tools
 
 <br/>
 
@@ -58,10 +52,10 @@ Currently exploring DevOps and how AI agents are reshaping the way data is built
 ## 🤝 Let's Connect
 
 <div align="left">
-  <a href="mailto:ahmad.chakcha@gmail.com" target="_blank">
+  <a href="mailto:ahmad.chakcha@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href=" https://www.linkedin.com/in/ahmad-chakcha/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-chakcha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 </div>
